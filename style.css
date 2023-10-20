@@ -1,0 +1,43 @@
+body
+{
+background-size: cover ;
+}
+
+#title{
+    background: linear-gradient(to right, #606c88, #3f4c6b);
+    font-size: 41px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #8e9eab;
+    box-shadow: 10px 10px 5px #101e3e;
+    padding: 5.5px;
+}
+
+.button{
+    float:right;
+    font-size: 20px;
+    background: linear-gradient(to right, #403b4a, #e7e9bb);
+}
+
+#status{
+    font-size: 20px;
+    background: linear-gradient(to right, #403b4a, #e7e9bb);
+}
+
+#footer{
+    font-size: 20px;
+    padding: 8px;
+   background-color: #101e3e;
+   color: white;
+border-radius: 7px;
+position: sticky;
+bottom:0px;
+}
+
+.modal-dialog{
+    width:90%
+}
+
+.instrutions_image{
+    display:imline-block;
+    width: 45%;
+}
